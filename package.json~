@@ -1,0 +1,11 @@
+{
+  "name": "pdownloader",
+  "version": "1.0.0",
+  "description": "A utility to download podcasts from RSS feeds.",
+  "main": "\\",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
